@@ -2,7 +2,7 @@
 
 Nhóm: K4-Track3B-Team
 
-Người phụ trách: Ngo Anh Khoa - Evaluation Lead
+Người phụ trách: Ngo Anh Khoa - Evaluation Lead (MSSV: 2A202602965)
 
 Nguồn: `artifacts/ragas_50q.json`; run timestamp: 2026-10-12T08:30:34.589108+00:00.
 Generation mode/fallback và điều kiện chạy: extractive_fallback (pipeline trích xuất context trực tiếp khi không có kết nối LLM generation trực tiếp).

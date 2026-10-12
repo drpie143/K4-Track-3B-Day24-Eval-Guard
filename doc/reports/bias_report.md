@@ -2,7 +2,7 @@
 
 Nhóm: K4-Track3B-Team
 
-Người phụ trách: Ngo Anh Khoa - Evaluation Lead
+Người phụ trách: Ngo Anh Khoa - Evaluation Lead (MSSV: 2A202602965)
 
 Nguồn: `artifacts/judge_results.json`; run timestamp: 2026-10-12T08:32:19.103018+00:00.
 Models generation/judge: generation = [], judge = ["gpt-4o-mini"].

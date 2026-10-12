@@ -1,8 +1,8 @@
 # Blueprint CI/CD cho RAG và guardrails
 
-Nhóm: Track 3B - Nhóm 24
+Nhóm: K4-Track3B-Team
 
-Người phụ trách: Ngô Anh Khoa (2A202602965) & Mai Quang Dũng (2A202602966)
+Người phụ trách: Ngo Anh Khoa (2A202602965) & Mai Quang Dung (2A202602966)
 
 Đây là **đề xuất CI/CD**, không phải workflow đã được triển khai/chạy.
 Nguồn kết quả: artifacts/ragas_50q.json, judge_results.json, guard_results.json.
