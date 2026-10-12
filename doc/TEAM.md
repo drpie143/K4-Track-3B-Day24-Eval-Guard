@@ -1,6 +1,6 @@
 # Nhóm thực hiện K4 Track 3B
 
-Tên nhóm: K4-Track3B-Team
+Tên nhóm: THE LIEMS
 
 Repo chung: https://github.com/drpie143/K4-Track-3B-Day24-Eval-Guard
 

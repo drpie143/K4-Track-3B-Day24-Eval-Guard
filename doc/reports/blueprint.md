@@ -1,6 +1,6 @@
 # Blueprint CI/CD cho RAG và guardrails
 
-Nhóm: K4-Track3B-Team
+Nhóm: THE LIEMS
 
 Người phụ trách: Ngo Anh Khoa (2A202602965) & Mai Quang Dung (2A202602966)
 

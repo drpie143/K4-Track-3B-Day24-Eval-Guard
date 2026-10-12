@@ -1,6 +1,6 @@
 # Đánh giá LLM Judge Phase B
 
-Nhóm: K4-Track3B-Team
+Nhóm: THE LIEMS
 
 Người phụ trách: Ngo Anh Khoa - Evaluation Lead (MSSV: 2A202602965)
 
