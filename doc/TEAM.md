@@ -8,7 +8,7 @@ Trưởng nhóm/người nộp: Ngo Anh Khoa - MSSV: 2A202602965
 
 Ngày lab/deadline áp dụng: 11:59 AM (13/10/2026) — Asia/Ho_Chi_Minh (UTC+07:00)
 
-Commit dùng để chấm: 150baf2
+Commit dùng để chấm: HEAD
 
 Mỗi nhóm nộp một repo. Điền đủ thành viên và một mục INDIVIDUAL cho từng người.
 
